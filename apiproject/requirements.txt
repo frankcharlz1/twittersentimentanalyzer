@@ -1,0 +1,5 @@
+oauth2
+psycopg2
+Flask==0.10.1
+python-crontab
+requests
